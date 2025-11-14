@@ -34,7 +34,7 @@ const Footer = () => {
   const socialLinks = [
     { icon: <Twitter className="w-5 h-5" />, href: '#', label: 'Twitter' },
     { icon: <Linkedin className="w-5 h-5" />, href: 'https://www.linkedin.com/in/mussa-aloyce-032049261/', label: 'LinkedIn' },
-    { icon: <Github className="w-5 h-5" />, href: 'https://github.com/naza-webtech', label: 'GitHub' },
+    { icon: <Github className="w-5 h-5" />, href: '#', label: 'GitHub' },
     { icon: <Instagram className="w-5 h-5" />, href: 'https://instagram.com/nazawebtech', label: 'Instagram' },
     { icon: <Facebook className="w-5 h-5" />, href: 'https://facebook.com/yourprofile', label: 'Facebook' },
     { icon: <Phone className="w-5 h-5" />, href: 'https://wa.me/255772207423', label: 'WhatsApp' } // Your number in international format
